@@ -7,3 +7,6 @@ _templates
 
 # Compiled contract ABIs and binaries
 build/contracts/*
+
+# Jetbrains editos
+.idea

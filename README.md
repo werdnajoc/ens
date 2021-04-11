@@ -2,6 +2,13 @@
 
 [![Build Status](https://travis-ci.org/ensdomains/ens.svg?branch=master)](https://travis-ci.org/ensdomains/ens)
 
+## Prerequisites
+
+|Dependency|Version|
+|:---------|:-----:|
+|Node      | 10.24.1|
+|NPM       | 6.14.12 |
+
 Implementations for registrars and local resolvers for the Ethereum Name Service.
 
 For documentation of the ENS system, see [docs.ens.domains](https://docs.ens.domains/).
